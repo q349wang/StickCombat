@@ -1,2 +1,2 @@
 # StickCombat
-Try to beat the AI or face a friend in stick figure fighting game
+Stick Fighting game which implements a basic AI for single player made in Turing
